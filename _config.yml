@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" #"dark"
+site_theme               : "default" #"dark" #"custom"
 title                    : "Dharmalingam S"
 title_separator          : "-"
 name                     : &name "Dharmalingam"
